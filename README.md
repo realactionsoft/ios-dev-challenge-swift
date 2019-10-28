@@ -1,6 +1,6 @@
 # iOS Development Challenge
 
-A fun 3 hour challenge for candidates interviewing for a junior to mid-level iOS Developer position.
+A fun 6 hour challenge for candidates interviewing for a junior to mid-level iOS Developer position.
 
 ## Instructions
 
@@ -18,6 +18,7 @@ The minimum requirements are the following:
 
 
 Extra points will be awarded if you use:
+* You use URLSession and JSONSerialization to make requests and do not use any 3rd party libraries for Neworking and JSON parsing.
 * You implement a "refresh map" mechanism to refresh the map with the places in range based on the user's location.
 * You implement a "pull to refresh" control on the list that refreshes the list based on the user's location.
 * You come up with a nice and modern UI/UX, it is recommended you follow Apple's UI Guidelines (Cupertino look and feel).
@@ -25,7 +26,7 @@ Extra points will be awarded if you use:
 
 ## Deadline
 
-You'll have 3 hours to complete this challenge. The clock starts ticking from the moment you receive access to this repository. If you finish it sooner... hey!, extra points!
+You'll have 6 hours to complete this challenge. The clock starts ticking from the moment you receive access to this repository. If you finish it sooner... hey!, extra points!
 
 **Please be sure to only work in the branch named with your git username. Do not push any changes directly to the master branch.**
 
